@@ -1,0 +1,9 @@
+// Simple introduction to classes (also known as a layout/template)
+
+public class Main {
+    public static void main(String[] args) {
+      int zucchini;
+      zucchini = 3;
+      System.out.println(zucchini);
+    }
+  }
